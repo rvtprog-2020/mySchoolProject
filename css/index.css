@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: none;
+}
+
+.header{
+    
+}
+
+.icon {
+    width: 10px;
+}
+.app {
+    text-align: center;
+    margin: auto;
+    padding-top: 3rem;
+    
+}
+.app-body {
+    padding-top: 5rem;
+}
+
+.app-body-output{
+    padding-top: 10rem;
+}
+.app-body-end {
+    padding-top: 10rem;
+
+}
